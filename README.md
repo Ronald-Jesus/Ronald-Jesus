@@ -52,6 +52,7 @@
 </div>
 
 ---
+### 🎮 Gráfico de Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ronald-Jesus/Ronald-Jesus/output/pacman-contribution-graph-dark.svg">
@@ -69,3 +70,10 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-050f2c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seuportfolio.com)
 
 </div>
+
+</details>
+
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
