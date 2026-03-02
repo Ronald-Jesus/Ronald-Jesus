@@ -7,7 +7,7 @@
   <img src="https://imgur.com/SGR1Rrh.gif" width="300" alt="Hello World" style="margin: 20px 0;">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Eu+sou+o+Ronald;Tenho+19+anos;Sou+de+Brasília,+DF;Faço+Ciências+da+de+Computação;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Eu+sou+o+Ronald;Tenho+20+anos;Sou+de+Brasília,+DF;Faço+Ciências+da+Computação;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <details align="center">  
   <summary>
